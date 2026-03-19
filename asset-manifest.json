@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AshleyAISuper/static/css/main.14c8fae3.css",
+    "main.js": "/AshleyAISuper/static/js/main.07f6d1cb.js",
+    "index.html": "/AshleyAISuper/index.html",
+    "main.14c8fae3.css.map": "/AshleyAISuper/static/css/main.14c8fae3.css.map",
+    "main.07f6d1cb.js.map": "/AshleyAISuper/static/js/main.07f6d1cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c8fae3.css",
+    "static/js/main.07f6d1cb.js"
+  ]
+}
